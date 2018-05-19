@@ -9,6 +9,7 @@ using namespace std;
 // 1 2 5 9 4 (v[n])
 // 2 3 3 4 6 (w[n])
 //test github
+//test 2
 int maxValue(int n, int c, int v[], int w[]) {
 	int **dp = new int*[n];
 
