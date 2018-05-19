@@ -8,7 +8,7 @@ using namespace std;
 // 5(n) 10(capacity)
 // 1 2 5 9 4 (v[n])
 // 2 3 3 4 6 (w[n])
-
+//test github
 int maxValue(int n, int c, int v[], int w[]) {
 	int **dp = new int*[n];
 
