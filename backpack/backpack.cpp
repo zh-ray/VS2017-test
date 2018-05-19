@@ -10,6 +10,7 @@ using namespace std;
 // 2 3 3 4 6 (w[n])
 //test github
 //test 2
+//test 3
 int maxValue(int n, int c, int v[], int w[]) {
 	int **dp = new int*[n];
 
